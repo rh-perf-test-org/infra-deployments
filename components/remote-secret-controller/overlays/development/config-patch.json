@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/data/VAULTHOST",
-    "value": "https://vault-spi-vault.apps-crc.testing"
+    "value": "https://vault-spi-vault.apps.rosa.oqa4o-d4iq3-2sa.afgo.p3.openshiftapps.com"
   },
   {
     "op": "add",
