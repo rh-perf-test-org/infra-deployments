@@ -30,7 +30,7 @@ spec:
           helm:
             parameters:
               - name: "image.repository"
-                value: otel/opentelemetry-collector-k8s
+                value: ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib
               - name: "mode"
                 value: deployment
               - name: "fullnameOverride"
